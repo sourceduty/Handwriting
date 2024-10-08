@@ -14,6 +14,8 @@ Ultimately, Handwriting is tailored to provide a personalized and constructive e
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[New Language](https://github.com/sourceduty/New_Language)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
