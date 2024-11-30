@@ -13,7 +13,7 @@ Ultimately, Handwriting is tailored to provide a personalized and constructive e
 #
 ### Keyboard Innovation
 
-![Writer](https://github.com/user-attachments/assets/694199b3-df9c-451e-81b9-92b2fbd33e66)
+![Handwriting](https://github.com/user-attachments/assets/83b8bea3-39d3-4278-88ad-a548dce16ac1)
 
 Handwriting and typing are two distinct methods of recording information, each with its advantages and limitations. Typing is generally faster than handwriting, particularly for individuals who are proficient in touch typing. The ability to press keys in rapid succession allows for higher words per minute (WPM) compared to the physical act of writing letters by hand. Typing also offers features like auto-correction and predictive text, which can enhance speed and accuracy. Additionally, typing on digital devices allows for easy editing, copying, and sharing of content, making it a preferred choice in fast-paced environments such as workplaces or academic settings.
 
@@ -25,9 +25,6 @@ Handwriting, on the other hand, tends to be slower because it involves more intr
 ![Plain Text](https://github.com/user-attachments/assets/3ff5be67-c100-4f50-a7fe-e7a5b91671ef)
 
 Plain text refers to a basic form of digital text that contains only characters from a standard character set, such as ASCII or Unicode, without any additional formatting, styles, or embedded media. It is the simplest and most universal form of text, making it highly compatible across different platforms, devices, and software. Unlike rich text formats, which may include bolding, italicizing, or font changes, plain text is strictly unadorned, focusing solely on the content itself. This minimalism ensures ease of storage, transmission, and processing, making plain text ideal for tasks such as coding, configuration files, and documentation where readability and simplicity are key. It serves as the foundation for many forms of digital communication and data representation.
-
-#
-![Handwriting](https://github.com/user-attachments/assets/83b8bea3-39d3-4278-88ad-a548dce16ac1)
 
 #
 ### Related Links
