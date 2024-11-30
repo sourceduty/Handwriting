@@ -28,6 +28,8 @@ Handwriting, on the other hand, tends to be slower because it involves more intr
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [New Language](https://github.com/sourceduty/New_Language)
+<br>
+[Plain Text](https://github.com/sourceduty/Plain_Text)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
