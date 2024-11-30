@@ -1,4 +1,4 @@
-![Writer](https://github.com/user-attachments/assets/694199b3-df9c-451e-81b9-92b2fbd33e66)
+![Nerd](https://github.com/user-attachments/assets/2323fe7d-2366-4f1f-ac99-c3cf9f6d8f49)
 
 > Digitize, translate and analyze handwriting in any language.
 
@@ -12,6 +12,8 @@ Ultimately, Handwriting is tailored to provide a personalized and constructive e
 
 #
 ### Keyboard Innovation
+
+![Writer](https://github.com/user-attachments/assets/694199b3-df9c-451e-81b9-92b2fbd33e66)
 
 Handwriting and typing are two distinct methods of recording information, each with its advantages and limitations. Typing is generally faster than handwriting, particularly for individuals who are proficient in touch typing. The ability to press keys in rapid succession allows for higher words per minute (WPM) compared to the physical act of writing letters by hand. Typing also offers features like auto-correction and predictive text, which can enhance speed and accuracy. Additionally, typing on digital devices allows for easy editing, copying, and sharing of content, making it a preferred choice in fast-paced environments such as workplaces or academic settings.
 
